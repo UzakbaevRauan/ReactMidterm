@@ -1,0 +1,17 @@
+.top_container{
+    background-color: aliceblue;
+    height: 300px;
+    width: 100%;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 220px;
+    left:100px;
+    border-radius: 100%;
+}
+.bottom_container{
+    margin-top: 100px;
+    margin-left: 100px;
+}
